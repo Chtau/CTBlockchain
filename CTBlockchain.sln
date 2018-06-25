@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blockchain", "Blockchain\Blockchain.csproj", "{7F8C7984-5DC1-4646-B823-FF60A6210115}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainTest", "Chain\ChainTest.csproj", "{5AAA181F-3950-4BC6-B8B1-E3D354F4B9D6}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicImplementation", "BasicImplementation\BasicImplementation.csproj", "{3FD53E9C-0E79-4355-BF11-083373AE4C09}"
 EndProject
 Global
