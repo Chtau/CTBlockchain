@@ -1,3 +1,3 @@
 # CTBlockchain
 
-CTBlockchain is a reusable Basic implementation of a Blockchain in ASP.Core / net.Standard 2.
+CTBlockchain is a reusable Basic implementation of a Blockchain in net.Core / net.Standard 2.
