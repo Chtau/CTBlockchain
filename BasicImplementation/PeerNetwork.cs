@@ -13,12 +13,12 @@ namespace BasicImplementation
 
         public void LatestBlockBroadcast(IBlockDefinition latestblock)
         {
-            throw new NotImplementedException();
+            System.Diagnostics.Debug.Print("LatestBlockBroadcast");
         }
 
         public void FullBlockchainRequest(List<IBlockDefinition> localBlockchain)
         {
-            throw new NotImplementedException();
+            System.Diagnostics.Debug.Print("FullBlockchainRequest");
         }
     }
 }
